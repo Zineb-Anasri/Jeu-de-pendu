@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1735166662 source:c:\users\lyous\documents\language c\jeu de pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
